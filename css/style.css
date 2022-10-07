@@ -170,7 +170,8 @@ img {
         padding-top: 3rem;
     }
     .why-us h2{
-        margin: 3rem auto 2rem;
+        margin: 0 auto 2rem;
+        padding-top: 3rem;
         width: 70%;
     }
     section.lessons{
@@ -179,7 +180,13 @@ img {
     header{
         background-color: #232946;
     }
-    body{
+    h1.text-center{
+        margin-bottom: 0;
+        padding-bottom: 3rem;
+    }
+    .why-us{
+        margin-bottom: 0;
+        padding-bottom: 3rem;
         background-color: #222222;
     }
 
