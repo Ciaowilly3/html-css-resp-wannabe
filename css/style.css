@@ -173,4 +173,14 @@ img {
         margin: 3rem auto 2rem;
         width: 70%;
     }
+    section.lessons{
+        background-color: #232946;
+    }
+    header{
+        background-color: #232946;
+    }
+    body{
+        background-color: #222222;
+    }
+
  }
